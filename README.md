@@ -64,5 +64,131 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-MSP Software is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://mspsoftware.net
+MSP Software (mspsoftware.net) is a directory of software for managed service providers, listing 256 products across 20 categories such as PSA, RMM, backup, and security. Each listing includes vendor‑published facts, pricing details, reviews from other MSPs, and FAQs. The site provides a read‑only JSON API (OpenAPI 3.1) for programmatic access to categories, listings, comparisons, recent updates, and blog posts. No authentication is required.
+
+**Areas:** Directory · MSP · Software · Comparison · Reviews · OpenAPI
+
+## MSP Software on APIs.io
+
+Everything profiled for MSP Software is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/mspsoftware-net/](https://apis.io/providers/mspsoftware-net/)** — or go straight to one of the APIs or properties below.
+
+### APIs (7)
+
+- [MSP Software Categories API](https://apis.io/apis/mspsoftware-net/mspsoftware-net-categories-api/) — The Categories API from MSP Software — 2 operation(s) for categories.
+- [MSP Software Compare API](https://apis.io/apis/mspsoftware-net/mspsoftware-net-compare-api/) — The Compare API from MSP Software — 1 operation(s) for compare.
+- [MSP Software MSP Software API](https://apis.io/apis/mspsoftware-net/mspsoftware-net-msp-software-api-api/) — The MSP Software API API from MSP Software — 1 operation(s) for msp software api.
+- [MSP Software Posts API](https://apis.io/apis/mspsoftware-net/mspsoftware-net-posts-api/) — The Posts API from MSP Software — 2 operation(s) for posts.
+- [MSP Software Recent API](https://apis.io/apis/mspsoftware-net/mspsoftware-net-recent-api/) — The Recent API from MSP Software — 1 operation(s) for recent.
+- [MSP Software Software API](https://apis.io/apis/mspsoftware-net/mspsoftware-net-software-api/) — The Software API from MSP Software — 2 operation(s) for software.
+- [MSP Software Vendors API](https://apis.io/apis/mspsoftware-net/mspsoftware-net-vendors-api/) — The Vendors API from MSP Software — 1 operation(s) for vendors.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Mspsoftware Net Agentic Access](https://apis.io/agentic-access/mspsoftware-net/mspsoftware-net-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [CategoryDetail](https://apis.io/schemas/mspsoftware-net/mspsoftware-net-category-detail/)
+- [Comparison](https://apis.io/schemas/mspsoftware-net/mspsoftware-net-comparison/)
+- [RecentUpdates](https://apis.io/schemas/mspsoftware-net/mspsoftware-net-recent-updates/)
+- [SoftwareDetail](https://apis.io/schemas/mspsoftware-net/mspsoftware-net-software-detail/)
+- [SoftwareSummary](https://apis.io/schemas/mspsoftware-net/mspsoftware-net-software-summary/)
+- [Vendor](https://apis.io/schemas/mspsoftware-net/mspsoftware-net-vendor/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Mspsoftware Net Context](https://apis.io/jsonld/mspsoftware-net/mspsoftware-net-context/)
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Mspsoftware Net Directory Api Overlay](https://apis.io/overlays/mspsoftware-net/mspsoftware-net-directory-api-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [MSP Software API Rules](https://apis.io/rules/mspsoftware-net/mspsoftware-net-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Mspsoftware Net Domain Security](https://apis.io/security/mspsoftware-net/mspsoftware-net-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://mspsoftware.net)
+- [Documentation](https://mspsoftware.net/api)
+- [API reference](https://mspsoftware.net/api)
+- [Blog](https://mspsoftware.net/blog)
+- [Terms of service](https://mspsoftware.net/terms)
+- [Privacy policy](https://mspsoftware.net/privacy)
+
+## API Evangelist rating
+
+**Kin Score 44.3** — developing · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 53.9 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 37.4 |
+| Access clarity | 34.2 |
+
+**Agent readiness 31.9** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 18.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/mspsoftware-net/](https://apis.io/providers/mspsoftware-net/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for MSP Software: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/mspsoftware-net/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
